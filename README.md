@@ -4,7 +4,7 @@ This repository hosts our group’s work for **CS230: Computing & Social Respons
 
 ## Contents
 - [Report (PDF)](link)
-- [Youtube presentation]([link](https://www.youtube.com/watch?v=O2ta3YaR7gs))
+- [Youtube presentation](link))
 
 ## Team Members
 - Name Anthony Cucchiara  
