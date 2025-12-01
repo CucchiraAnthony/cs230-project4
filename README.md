@@ -3,7 +3,7 @@
 This repository hosts our group’s work for **CS230: Computing & Social Responsibility**.  
 
 ## Contents
-- [Report (PDF)](https://your-pdf-link-here)
+- [Report (PDF)](https://github.com/CucchiraAnthony/cs230-project4/blob/main/project_4_compete_group_1.pdf)
 - [YouTube presentation](https://www.youtube.com/watch?v=5i0GKTp8c1Q)
 
 ## Team Members
